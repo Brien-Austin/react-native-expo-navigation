@@ -2,7 +2,7 @@
 Learned some of the basics of React Native Navigation and also implemented like props passing through the various screens of the example App 
 
 Home page
- ![screen-1](https://github.com/Brien-Austin/react-native-expo-navigation/assets/108070853/f666a281-63dc-4eb3-9d36-536ec2d335bc)
+<img src="https://github.com/Brien-Austin/react-native-expo-navigation/assets/108070853/f666a281-63dc-4eb3-9d36-536ec2d335bc" width="300" height="500" >
 
  Settings Page 
  ![screen-3](https://github.com/Brien-Austin/react-native-expo-navigation/assets/108070853/3160ef3c-8d75-4eed-99b5-f3195e89aed6)
